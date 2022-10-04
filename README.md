@@ -10,3 +10,6 @@
 ### 支持候補名額與自動補補
 ### 使用 Google App 腳本語法開發
 # test demo
+![310725815_1799094113779987_1434509571882507311_n](https://user-images.githubusercontent.com/67829896/193771022-1f74dc45-9c93-429b-a809-bef6218419f3.jpg)
+
+![310232035_844199516756862_3689591726815426568_n](https://user-images.githubusercontent.com/67829896/193771033-2b25aea9-96a6-4f17-b257-722dbba8a981.jpg)
