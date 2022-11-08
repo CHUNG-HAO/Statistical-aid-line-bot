@@ -2,7 +2,7 @@
 
 通常LINE 一行人開團、報名時，瘋狂傳一用，手動記錄有夠累～「LINE輔助機器人」自動傳「+1」的用戶到谷歌試算表，並回傳給你！
 # 動機
-我表姊有在幫忙做代購以及課程預約，常常一個群組動輒幾百幾千人，再我幫忙做出這隻機器人之前，在統計人數以及數量時常忙到不行，有時候還會登記錯誤，直到做出這隻機器人才變方便而且正確率高。
+之所以製作出這項專題，是因為我認為目前電子商務的興起，網路行銷以及有許多網紅跟許多普通人都開始接觸電商，但往往沒有資訊背景的使用者私自叫貨來賣的時候往往會因為登記人數開始遇到問題，好比如fb的直播拍賣、或者line上面的群組團購……等等，由於我表姊副業有在line上做團購以及預訂課程的關係，所以做出此項專題協助我表姊進行統計人數，主要功能大致上我歸類為判別對於+1的客人做出統計，這項專題將會以Google App 腳本語法開發，用於谷歌試算表做免費資料庫，「+2」（取消）/「-1」（取消）功能，支持候補名額與自動補位。
 # 功能介紹
 ### 自動識別傳“+1”的用戶，並將LINE名稱記錄到
 ### 用於谷歌試算表做免費資料庫
@@ -10,7 +10,7 @@
 ### 支持候補名額與自動補位
 ### 使用 Google App 腳本語法開發
 # test demo
-![image](https://user-images.githubusercontent.com/67829896/200507804-ddb6eca2-727d-4f10-923a-d844c56f48e7.png)
-![image](https://user-images.githubusercontent.com/67829896/200507874-7a9a4545-4b55-4c4b-a84d-cb56a2b96b66.png)
-![image](https://user-images.githubusercontent.com/67829896/200507911-f879ff60-e11a-43db-966a-76ed912b2f69.png)
+<img width="183" alt="image" src="https://user-images.githubusercontent.com/67829896/200508351-a6f88a19-92d0-4ff2-8a40-baac7b21fcde.png">
+<img width="185" alt="image" src="https://user-images.githubusercontent.com/67829896/200508400-83eb2da8-b1ca-47f0-86a7-57159393083f.png">
+
 
