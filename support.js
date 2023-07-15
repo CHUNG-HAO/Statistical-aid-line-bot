@@ -9,10 +9,10 @@ function doPost(e) {
   console.log(msg);
 
   /*
-  * replyToken : 一次性回覆 token
-  * user_id : 使用者 user id，查詢 username 用
-  * userMessage : 使用者訊息，用於判斷是否為預約關鍵字
-  * event_type : 訊息事件類型
+  * 一次性回覆 token
+  * 使用者 user id，查詢 username 用
+  * 使用者訊息
+  * 訊息事件類型
   */
   const replyToken = msg.events[0].replyToken;
   const user_id = msg.events[0].source.userId;
@@ -22,8 +22,8 @@ function doPost(e) {
   /*
   * Google Sheet 資料表資訊設定
   *
-  * 將 sheet_url 改成你的 Google sheet 網址
-  * 將 sheet_name 改成你的工作表名稱
+  *  Google sheet 網址
+  * 工作表名稱
   */
   const sheet_url = 'https://docs.google.com/spreadsheets/d/19iAT3rwCpDw0l-2Z5B9zTC2471RGQaKFUNDyVxgvmOI/edit#gid=0';
   const sheet_name = 'booking';
