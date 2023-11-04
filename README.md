@@ -1,4 +1,10 @@
 # Statistical-aid-line-bot
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/chris911024/Statistical-aid-line-bot?style=flat&label=Stars)](https://github.com/chris911024/Statistical-aid-line-bot/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/chris911024/Statistical-aid-line-bot?style=flat&label=Forks)](https://github.com/chris911024/Statistical-aid-line-bot/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/chris911024/Statistical-aid-line-bot?style=flat&label=Issues)](https://github.com/chris911024/Statistical-aid-line-bot/issues)
+
 # 相關介紹
 https://github.com/chris911024/Statistical-aid-line-bot/blob/main/以LINE-BOT實作輔助記數及雲端資料庫應用.pdf
 通常LINE 一行人開團、報名時，瘋狂傳一用，手動記錄有夠累～「LINE輔助機器人」自動傳「+1」的用戶到谷歌試算表，並回傳給你！
